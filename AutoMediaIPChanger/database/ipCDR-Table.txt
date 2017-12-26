@@ -1,0 +1,34 @@
+create table ipCDR(
+    id INT unsigned NOT NULL PRIMARY KEY,
+    handsetOS varchar (10),
+    username VARCHAR(100),
+    srcIP int unsigned,
+    srcISP smallint unsigned,
+    mediaIP int unsigned,
+    setupTime bigint unsigned,
+    connectTime smallint unsigned,
+    disconnectTime mediumint unsigned,
+    dialedNumber VARCHAR(15),
+    dialerSendPayload mediumint unsigned,
+    dialerReceivedPayload mediumint unsigned,
+    mediaReceivedPayload mediumint unsigned,
+    mediaSendPayload mediumint unsigned,
+    codec tinyint unsigned);
+create index timeIndex on ipCDR(setupTime); 
+create index ISPIndex on ipCDR(srcISP);
+
+mysql> describe ispConfiguration;
++---------------+---------------+------+-----+---------+-------+
+| Field         | Type          | Null | Key | Default | Extra |
++---------------+---------------+------+-----+---------+-------+
+| id            | decimal(10,0) | NO   |     | NULL    |       |
+| begin_ip      | decimal(10,0) | NO   |     | NULL    |       |
+| end_ip        | decimal(10,0) | NO   | MUL | NULL    |       |
+| operator_code | varchar(40)   | NO   |     | NULL    |       |
++---------------+---------------+------+-----+---------+-------+
+4 rows in set (0.00 sec)
+
+
+
+
+alter table ipCDR add column handsetOS varchar (10) default NULL after id;

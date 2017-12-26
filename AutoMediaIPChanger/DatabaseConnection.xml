@@ -1,0 +1,5 @@
+<CONNECTIONS>
+<CONNECTION ID="1" DRIVER_CLASS_NAME="com.mysql.jdbc.Driver" DATABASE_URL="jdbc:mysql://43.240.101.55/iTelPinProtector"
+ USER_NAME = "moshhud" PASSWORD = "56028Nb"
+ IS_DEFAULT = "TRUE"/>
+</CONNECTIONS>

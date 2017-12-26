@@ -1,0 +1,1154 @@
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.0 at Mon Sep 21 02:20:02 VET 2015
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.0 at Mon Sep 21 02:20:10 VET 2015
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.0 at Mon Sep 21 02:20:12 VET 2015
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.0 at Mon Sep 21 02:21:13 VET 2015
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.0 at Wed Sep 30 01:02:42 VET 2015
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.0 at Wed Nov 04 04:10:23 VET 2015
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.1 at Sun Nov 26 09:43:33 BDT 2017
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.1 at Mon Nov 27 11:09:18 BDT 2017
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.2 at Tue Nov 28 10:25:56 BDT 2017
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.2 at Wed Dec 06 16:45:04 BDT 2017
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.2 at Wed Dec 06 16:46:36 BDT 2017
+132  DEBUG [main] () - Operator Codes:R77140,R96921,R66184
+132  DEBUG [main] () - Operator Code:17582
+147  DEBUG [main] () - testingTimeInereval: 3 packetLossLimitToChangeIP: 2.0
+351  DEBUG [main] () - Starting IP loader...
+401  DEBUG [Thread-0] () - IPChanger run() Started
+2401 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2401 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+6108 ERROR [Thread-0] () - javax.mail.AuthenticationFailedException
+6171 DEBUG [Thread-0] () - Currently used voice Listen IP: 172.31.16.63
+13263 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+13263 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+14179 ERROR [Thread-0] () - javax.mail.AuthenticationFailedException
+23995 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+23995 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+0    DEBUG [main] () - Starting AutoMediaIPChanger version :1.0.2 at Wed Dec 06 16:52:02 BDT 2017
+222  DEBUG [main] () - Operator Codes:R77140,R96921,R66184
+222  DEBUG [main] () - Operator Code:17582
+225  DEBUG [main] () - testingTimeInereval: 3 packetLossLimitToChangeIP: 2.0
+617  DEBUG [main] () - Starting IP loader...
+698  DEBUG [Thread-0] () - IPChanger run() Started
+1717 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+1717 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+5308 ERROR [Thread-0] () - javax.mail.AuthenticationFailedException
+5350 DEBUG [Thread-0] () - Currently used voice Listen IP: 172.31.16.63
+11918 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+11918 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+13313 ERROR [Thread-0] () - javax.mail.AuthenticationFailedException
+22222 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+22223 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+32486 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+32487 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+44006 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+44006 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+54189 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+54189 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+64474 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+64474 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+74888 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+74888 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+85127 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+85127 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+95378 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+95379 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+105643 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+105643 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+115795 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+115795 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+136295 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+136295 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+147992 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+147992 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+159353 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+159353 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 13.56.37.197,52.53.77.8,54.215.195.195,54.241.20.87
+172577 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+172577 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+172577 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+183786 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+183786 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+183786 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+193324 DEBUG [Thread-0] () - Checking data...
+195853 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+195853 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+195854 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+199003 ERROR [Thread-0] () - javax.mail.AuthenticationFailedException
+199004 DEBUG [Thread-0] () - Currently used voice Listen IP: 172.31.16.63
+206126 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+206126 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+206126 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+207021 ERROR [Thread-0] () - javax.mail.AuthenticationFailedException
+207775 DEBUG [Thread-0] () - Initial Connections:1
+209615 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+209676 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+209676 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+209680 DEBUG [Thread-0] () - Initial Connections:1
+209831 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+209832 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+209832 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+210833 DEBUG [Thread-0] () - Initial Connections:1
+210842 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+210842 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+210842 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+212852 DEBUG [Thread-0] () - Initial Connections:1
+213203 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+213204 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+213204 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+216208 DEBUG [Thread-0] () - Initial Connections:1
+216301 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+216301 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+216302 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+216459 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+216459 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+216459 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+220305 DEBUG [Thread-0] () - Initial Connections:1
+220484 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+220484 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+220484 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+225487 DEBUG [Thread-0] () - Initial Connections:1
+225508 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+225509 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+225509 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+227856 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+227856 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+227856 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+231512 DEBUG [Thread-0] () - Initial Connections:1
+231535 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+231536 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+231536 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+238542 DEBUG [Thread-0] () - Initial Connections:1
+238593 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+238594 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+238594 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+240466 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+240466 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+240466 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+246598 DEBUG [Thread-0] () - Initial Connections:1
+246689 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+246689 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+246689 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+252493 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+252493 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+252493 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+255694 DEBUG [Thread-0] () - Initial Connections:1
+255721 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+255722 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+255722 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+265729 DEBUG [Thread-0] () - Initial Connections:1
+265781 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+265781 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+265782 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+2017-12-06 16:56:33,271 DEBUG AutoMediaIPChanger:27 - Starting AutoMediaIPChanger version :1.0.2 at Wed Dec 06 16:56:33 BDT 2017
+2017-12-06 16:56:33,276 DEBUG IPChanger:178 - Operator Codes:R77140,R96921,R66184
+2017-12-06 16:56:33,277 DEBUG IPChanger:183 - Operator Code:17582
+2017-12-06 16:56:33,278 DEBUG IPChanger:395 - testingTimeInereval: 3 packetLossLimitToChangeIP: 2.0
+2017-12-06 16:56:33,301 DEBUG IPLoader:24 - Starting IP loader...
+2017-12-06 16:56:33,305 DEBUG IPChanger:33 - IPChanger run() Started
+2017-12-06 16:56:33,308 DEBUG IPPool:33 - Currently used voice Listen IP: 172.31.16.63
+274663 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+274663 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+274663 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:56:36,843 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:56:36,843 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:56:36,843 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+276786 DEBUG [Thread-0] () - Initial Connections:1
+276843 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+276843 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+276843 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+286367 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+286367 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+286367 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:56:49,081 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:56:49,082 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:56:49,083 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+288847 DEBUG [Thread-0] () - Initial Connections:1
+288935 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+288935 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+288935 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+298642 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+298642 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+298642 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:57:00,970 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:57:00,970 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:57:00,970 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+301938 DEBUG [Thread-0] () - Initial Connections:1
+301983 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+301983 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+301984 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+309546 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+309546 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+309546 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:57:13,864 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:57:13,865 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:57:13,865 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+316050 DEBUG [Thread-0] () - Initial Connections:1
+316209 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+316230 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+316230 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+320475 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+320475 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+320475 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+331231 DEBUG [Thread-0] () - Initial Connections:1
+331270 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+331270 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+331271 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+2017-12-06 16:57:36,542 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:57:36,543 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:57:36,544 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+335337 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+335337 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+335337 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+346914 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+346914 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+346914 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+347274 DEBUG [Thread-0] () - Initial Connections:1
+347412 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+347412 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+347412 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+2017-12-06 16:57:51,838 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:57:51,839 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:57:51,840 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+357815 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+357815 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+357815 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+364413 DEBUG [Thread-0] () - Initial Connections:1
+364565 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+364565 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+364565 FATAL [Thread-0] () - Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+java.sql.SQLException: Invalid authorization specification,  message from server: "Access denied for user 'root'@'localhost' (using password: NO)"
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1977)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:1900)
+	at com.mysql.jdbc.MysqlIO.secureAuth411(MysqlIO.java:2471)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:813)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:440)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:400)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at databasemanager.DatabaseManager.getConnection(DatabaseManager.java:290)
+	at databasemanager.DatabaseManager.reLoad(DatabaseManager.java:226)
+	at databasemanager.DatabaseManager.createDatabaseManager(DatabaseManager.java:181)
+	at databasemanager.DatabaseManager.getInstance(DatabaseManager.java:58)
+	at autoipchanger.IPChangerImplementation.run(IPChangerImplementation.java:71)
+368939 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+368939 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+368939 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+380310 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+380310 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+380310 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+382570 DEBUG [Thread-0] () - Initial Connections:1
+390551 DEBUG [Thread-0] () - Source ISP: 0 Dialer Send Payload: 178200 Dialer Received Payload: 176640
+390551 DEBUG [Thread-0] () - packet loss in percentage for 0 is: 0.8754208754208754
+390551 DEBUG [Thread-0] () - Source ISP: 339 Dialer Send Payload: 775440 Dialer Received Payload: 751200
+390551 DEBUG [Thread-0] () - packet loss in percentage for 339 is: 3.1259671928195605
+390612 DEBUG [Thread-0] () - Source ISP: 58006 Dialer Send Payload: 643440 Dialer Received Payload: 609509
+390612 DEBUG [Thread-0] () - packet loss in percentage for 58006 is: 5.2733743627999505
+390933 DEBUG [Thread-0] () - Going to change Voice Listen IP for without data loss.
+391234 ERROR [Thread-0] () - InetAddress can't be created with the ip: 172.31.16.61
+391234 DEBUG [Thread-0] () - Trying for next IP ...
+391512 ERROR [Thread-0] () - InetAddress can't be created with the ip: 172.31.16.62
+391512 DEBUG [Thread-0] () - Trying for next IP ...
+391512 DEBUG [Thread-0] () - Trying for next IP ...
+391760 ERROR [Thread-0] () - InetAddress can't be created with the ip: 172.31.16.64
+391760 DEBUG [Thread-0] () - No active IP avaiable other than currently used IP. So Voice Listen IP cann't be changed.
+396741 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+396741 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+396741 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:58:42,957 DEBUG AutoMediaIPChanger:27 - Starting AutoMediaIPChanger version :1.0.2 at Wed Dec 06 16:58:42 BDT 2017
+2017-12-06 16:58:42,963 DEBUG IPChanger:178 - Operator Codes:R77140,R96921,R66184
+2017-12-06 16:58:42,963 DEBUG IPChanger:183 - Operator Code:17582
+2017-12-06 16:58:42,964 DEBUG IPChanger:395 - testingTimeInereval: 3 packetLossLimitToChangeIP: 2.0
+2017-12-06 16:58:42,986 DEBUG IPLoader:24 - Starting IP loader...
+2017-12-06 16:58:42,989 DEBUG IPChanger:33 - IPChanger run() Started
+2017-12-06 16:58:42,992 DEBUG IPPool:33 - Currently used voice Listen IP: 172.31.16.63
+2017-12-06 16:58:49,566 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:58:49,567 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:58:49,567 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+408068 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+408068 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+408068 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:59:01,325 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:59:01,326 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:59:01,326 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+420388 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+420389 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+420389 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+431519 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+431519 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+431519 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:59:14,395 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:59:14,395 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:59:14,395 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+442795 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+442795 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+442795 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:59:25,601 DEBUG IPLoader:55 - Media ProxyPublic IP List is empty.
+2017-12-06 16:59:25,601 DEBUG IPLoader:59 - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:59:25,602 DEBUG IPLoader:60 - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+454374 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+454374 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+454374 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+466182 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+466182 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+466182 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+2017-12-06 16:59:54,327 DEBUG AutoMediaIPChanger:27 - Starting AutoMediaIPChanger version :1.0.2 at Wed Dec 06 16:59:54 BDT 2017
+477716 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+477716 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+477716 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+487880 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+487880 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+487880 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+498778 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+498778 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+498778 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+509044 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+509044 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+509044 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+519210 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+519211 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+519211 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+548516 DEBUG [Thread-1] () - Media ProxyPublic IP List is empty.
+548516 DEBUG [Thread-1] () - Loading IP from DB: Voice Listen IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+548516 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
+571774 DEBUG [Thread-0] () - Checking data...
+2017-12-22 15:33:29,722 DEBUG AutoMediaIPChanger:27 - Starting AutoMediaIPChanger version :1.0.3 at Fri Dec 22 15:33:29 BDT 2017

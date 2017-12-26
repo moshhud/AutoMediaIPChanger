@@ -1,0 +1,72 @@
+Byte saver inserting data into ipCDR table:
+
+mysql> select *from ipCDR limit 1\G;
+*************************** 1. row ***************************
+                   id: 1649654
+            handsetOS: ANDROID
+             username: 11035
+                srcIP: 737174850
+               srcISP: 58006             //Regional operator code ID after checking source IP ( checking with ispConfiguration)
+              mediaIP: 737174839
+            setupTime: 1509951673393
+          connectTime: 2382
+       disconnectTime: 8815
+         dialedNumber: 112233
+    dialerSendPayload: 8280
+dialerReceivedPayload: 7840
+mediaReceivedPayload: 0
+     mediaSendPayload: 0
+                codec: 18
+
+
+
+
+Regional operator code info:
+
+mysql> select *from ispConfiguration limit 5;
++-------+------------+------------+---------------+
+| id    | begin_ip   | end_ip     | operator_code |
++-------+------------+------------+---------------+
+| 54002 |  627703808 |  627769343 | R81063        |
+| 53807 | 3716530176 | 3716538367 | R79108        |
+| 53806 | 3715661824 | 3715670015 | R79108        |
+|     7 | 3582205952 | 3582214143 | R61674        |
+| 34002 |   19398656 |   19660799 | R79108        |
++-------+------------+------------+---------------+
+
+
+IP changer checking data loss from ipCDR table after some interval (configurable time):
+1.	Calculating total data sent and received by dialer grouping with ISP(regional operator code id).
+String sql = "select srcISP, sum(dialerSendPayload), sum(dialerReceivedPayload) from ipCDR where setupTime > "+calTime+" and handsetOS IN "+handsetOSListInQuery+" group by srcISP";
+Here callTime=current time(in milli seconds) – data checking time(in milli seconds)
+2.	Calculating data loss from each group and compare with user provided data loss in percent. If loss is greater than user defined value then 
+	a.	Checking regional operator code for which data loss found and then changing the voice listen IP.
+		String opSql = "select operator_code from ispConfiguration where id = "+srcISP+ " and operator_code in ("+operatorCodeList+")";
+	b.	Or If no regional operator code provided in configuration file then also changing the voice listen IP.
+
+
+3.	IP is changing one after another based on packet loss. 
+4.	IP is changing based on some time interval with no data loss. (configuration parameter: ipChangeIntervalOnNoLoss)
+5.	One alert is generating if changing any IP by IP changer. 
+6.  Identifying offline IP
+	-check valid IP    
+	-can open socket   
+
+Other features  can add into IP changer:
+
+-Identify Blind block IP 
+	-check which ip does not receive/send payload and then remove it from IP list.
+
+-Voice quality check:
+	-application can check average call duration for each region. If avg call duration less then specific predifined value then
+	    -check server Memory status
+		-check CPU usage.		
+		-restart the media
+		-change voice listen ip
+			
+-IP Priority list:
+	-check older data(last 2 hours data) and find out which ip is working with less loss and then make a priority list to use as voice listen ip.
+	
+
+
+
