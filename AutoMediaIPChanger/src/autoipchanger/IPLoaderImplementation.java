@@ -11,18 +11,19 @@ import java.util.Random;
 
 public class IPLoaderImplementation extends IPLoader{
 	
-	final int PACKET_TYPE_IPCHANGER_IP_REQUEST=0x0000;//byte saver config request
+	final int PACKET_TYPE_IPCHANGER_IP_REQUEST=0x0000;
 	final int PACKET_TYPE_IPCHANGER_IP_RESPONSE=0x0001;
-	final int VOICE_LISTEN_IP_LIST=0x0002;
-	final int MEDIA_PROXY_PUBLIC_IP_LIST=0x0003;
-	final int OPERATOR_CODE=0x0004;
 	
-	final int PACKET_TYPE_MAILSERVER_REQUEST=0x0064;
-	final int PACKET_TYPE_MAILSERVER_RESPONSE=0x0065;
+	
+	final int PACKET_TYPE_IPCHANGER_MAILSERVER_REQUEST=0x0064;
+	final int PACKET_TYPE_IPCHANGER_MAILSERVER_RESPONSE=0x0065;
 	final int MAILSERVER_IP=0x0066;
 	final int MAILSERVER_PORT=0x0067;
 	final int AUTH_MAIL_ADDRESS=0x0068;
 	final int AUTH_MAIL_PASS=0x0069;
+	final int VOICE_LISTEN_IP_LIST=0x0002;
+	final int MEDIA_PROXY_PUBLIC_IP_LIST=0x0003;
+	final int OPERATOR_CODE=0x0004;
 		
 	String voiceListenIPList=null;
 	String mediaProxyPublicIP=null; 
@@ -57,22 +58,28 @@ public class IPLoaderImplementation extends IPLoader{
 				    
 					try {
 						
-						if(mailServerIP!=null){
-							IPChanger.smtpServer = mailServerIP;
-							mailServerIP=null;
+						if(IPChanger.enableREVEMailServer&&IPChanger.enableMailSending){
+							logger.debug("Loading REVE email server config...");
+							if(mailServerIP!=null){
+								IPChanger.smtpServer = mailServerIP;
+								mailServerIP=null;
+							}
+							if(mailServerPort!=null){
+								IPChanger.smtpPort = mailServerPort;
+								mailServerPort=null;
+							}
+							if(mailID!=null){
+								IPChanger.fromEmail = mailID;	
+								mailID=null;
+							}
+							if(mailPass!=null){
+								IPChanger.fromEmailPassword = mailPass;	
+								mailPass=null;
+							}
+								
 						}
-						if(mailServerPort!=null){
-							IPChanger.smtpPort = mailServerPort;
-							mailServerPort=null;
-						}
-						if(mailID!=null){
-							IPChanger.fromEmail = mailID;	
-							mailID=null;
-						}
-						if(mailPass!=null){
-							IPChanger.fromEmailPassword = mailPass;	
-							mailPass=null;
-						}
+						
+						
 						
 						if((mediaProxyPublicIP==null)&&(voiceListenIPList!=null)&&(voiceListenIPList.length()>7)){
 				    		logger.debug("Media Proxy Public IP List is empty.");
@@ -120,7 +127,7 @@ public class IPLoaderImplementation extends IPLoader{
 	 	    clientSocket.bind(new InetSocketAddress(localIP, localPort));
 	 	    clientSocket.setSoTimeout(20000);
 			//send(PACKET_TYPE_IPCHANGER_IP_REQUEST);
-			send(PACKET_TYPE_MAILSERVER_REQUEST);
+			send(PACKET_TYPE_IPCHANGER_MAILSERVER_REQUEST);
 		}
 		catch(Exception e)
 		{
@@ -255,20 +262,24 @@ public void getParameterValue(byte[] data,int len){
            		     logger.debug("Got Public IP: "+mediaProxyPublicIP);
            	         break;
             	case OPERATOR_CODE:      	     	    
-            		logger.debug("OP Code: "+new String(value));
-            	    break; 
+            		 logger.debug("OP Code: "+new String(value));
+            	     break; 
             	case MAILSERVER_IP:      	     	    
-            		logger.debug("Got Mail server IP: "+new String(value));
-            	    break; 
+            		 logger.debug("Got Mail server IP");
+            		 mailServerIP = new String(value);
+            	     break; 
             	case MAILSERVER_PORT:      	     	    
-            		logger.debug("Got Mail server Port: "+new String(value));
-            	    break;
+            		 logger.debug("Got Mail server Port: ");
+            		 mailServerPort = new String(value);
+            	     break;
             	case AUTH_MAIL_ADDRESS:      	     	    
-            		logger.debug("Got Mail ID: ");
-            	    break;
+            		 logger.debug("Got Mail ID");
+            		 mailID = new String(value);
+            	     break;
             	case AUTH_MAIL_PASS:      	     	    
-            		logger.debug("Got Mail Pass: ");
-            	    break;
+            		 logger.debug("Got Mail Pass");
+            		 mailPass = new String(value);
+            	     break;
             }
             
             

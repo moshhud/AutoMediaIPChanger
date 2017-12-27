@@ -31,12 +31,6 @@ import java.util.StringTokenizer;
 		public void run()
 		{			
 			logger.debug("IPChanger Started");
-			if(enableREVEMailServer&&enableMailSending){
-				logger.debug("Loading REVE email server config...");
-				fromEmail = "noreply-support@revesoft.com";
-				fromEmailPassword = "ChangeDPasS01032016#";				
-			}
-			
 			IPPool.getInstance().loadVoiceListenIPListAndSet();
 			
 			Connection connection=null;

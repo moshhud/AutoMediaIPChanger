@@ -1152,3 +1152,4 @@ java.sql.SQLException: Invalid authorization specification,  message from server
 548516 DEBUG [Thread-1] () - Loading IP from DB: Public IP: 172.31.16.61,172.31.16.62,172.31.16.63,172.31.16.64
 571774 DEBUG [Thread-0] () - Checking data...
 2017-12-22 15:33:29,722 DEBUG AutoMediaIPChanger:27 - Starting AutoMediaIPChanger version :1.0.3 at Fri Dec 22 15:33:29 BDT 2017
+2017-12-27 11:37:19,627 DEBUG AutoMediaIPChanger:27 - Starting AutoMediaIPChanger version :1.0.3 at Wed Dec 27 11:37:19 BDT 2017
