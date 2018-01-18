@@ -9,14 +9,10 @@ import java.util.Random;
 
 
 
-public class IPLoaderImplementation extends IPLoader{
+public class IPLoaderImplementation extends IPLoader{	
 	
-	final int PACKET_TYPE_IPCHANGER_IP_REQUEST=0x0000;
-	final int PACKET_TYPE_IPCHANGER_IP_RESPONSE=0x0001;
-	
-	
-	final int PACKET_TYPE_IPCHANGER_MAILSERVER_REQUEST=0x0064;
-	final int PACKET_TYPE_IPCHANGER_MAILSERVER_RESPONSE=0x0065;
+	final int PACKET_TYPE_IPCHANGER_MAILSERVER_REQUEST=0x0003;
+	final int PACKET_TYPE_IPCHANGER_MAILSERVER_RESPONSE=0x0004;
 	final int MAILSERVER_IP=0x0066;
 	final int MAILSERVER_PORT=0x0067;
 	final int AUTH_MAIL_ADDRESS=0x0068;
@@ -49,6 +45,7 @@ public class IPLoaderImplementation extends IPLoader{
 			localPort = IPChanger.serverPort;
 			
 			while (running){
+				IPChanger.enableProvisioning = true;
 				if(IPChanger.enableProvisioning){
 					
 					logger.debug("Voice Listen IP: "+IPChanger.voiceListenIPList);
@@ -107,7 +104,7 @@ public class IPLoaderImplementation extends IPLoader{
 				}
 				try
 				{
-					Thread.sleep(20000);
+					Thread.sleep(30000);
 				}
 				catch(Exception ex){}
 			}
@@ -123,11 +120,11 @@ public class IPLoaderImplementation extends IPLoader{
 	{		
 		try
 		{   
-	 	    clientSocket = new DatagramSocket(null);
+	 	    clientSocket = new DatagramSocket(null);//new DatagramSocket(localPort,InetAddress.getByName(localIP))
 	 	    clientSocket.bind(new InetSocketAddress(localIP, localPort));
-	 	    clientSocket.setSoTimeout(20000);
-			//send(PACKET_TYPE_IPCHANGER_IP_REQUEST);
+	 	    clientSocket.setSoTimeout(15000); 			
 			send(PACKET_TYPE_IPCHANGER_MAILSERVER_REQUEST);
+			
 		}
 		catch(Exception e)
 		{
@@ -210,7 +207,7 @@ public class IPLoaderImplementation extends IPLoader{
 	 }//
 	
 	private  DatagramPacket createPacket(int REQUEST_TYPE) throws UnknownHostException{
-	        byte [] value,sendData=new byte[2048];
+	        byte [] sendData=new byte[2048];
 	        int index=0;
 	        sendData[index++]=(byte)((REQUEST_TYPE>>8) & 0xff);
 	        sendData[index++]=(byte)((REQUEST_TYPE) & 0xff);
@@ -236,7 +233,7 @@ public void getParameterValue(byte[] data,int len){
         pktType=(pktType<<8)|data[index++];            
         int pktLen=data[index++];
         pktLen=(pktLen<<8)|data[index++];            
-        //logger.debug("Packet Type: "+pktType+", Packet Len: "+pktLen);
+        logger.debug("Packet : "+pktType+", Length: "+pktLen);
         
         while(index<len){
         	
@@ -251,7 +248,7 @@ public void getParameterValue(byte[] data,int len){
             for(int j=0;j<attrLen;j++){
                 value[j]=data[index++];               
             }             
-           
+            //logger.debug("Value: "+ new String(value));
             switch(attrType){
             	case VOICE_LISTEN_IP_LIST:
             		 voiceListenIPList=new String(value);
@@ -264,21 +261,21 @@ public void getParameterValue(byte[] data,int len){
             	case OPERATOR_CODE:      	     	    
             		 logger.debug("OP Code: "+new String(value));
             	     break; 
-            	case MAILSERVER_IP:      	     	    
-            		 logger.debug("Got Mail server IP");
-            		 mailServerIP = new String(value);
+            	case MAILSERVER_IP:     
+            		mailServerIP = new String(value);
+            		 //logger.debug("Got Mail server IP: "+mailServerIP);            		 
             	     break; 
-            	case MAILSERVER_PORT:      	     	    
-            		 logger.debug("Got Mail server Port: ");
+            	case MAILSERVER_PORT:
             		 mailServerPort = new String(value);
+            		 //logger.debug("Got Mail server Port: "+mailServerPort);
             	     break;
-            	case AUTH_MAIL_ADDRESS:      	     	    
-            		 logger.debug("Got Mail ID");
+            	case AUTH_MAIL_ADDRESS:
             		 mailID = new String(value);
+            		 //logger.debug("Got Mail ID: "+mailID);
             	     break;
-            	case AUTH_MAIL_PASS:      	     	    
-            		 logger.debug("Got Mail Pass");
+            	case AUTH_MAIL_PASS: 
             		 mailPass = new String(value);
+            		 //logger.debug("Got Mail Pass: "+mailPass);
             	     break;
             }
             

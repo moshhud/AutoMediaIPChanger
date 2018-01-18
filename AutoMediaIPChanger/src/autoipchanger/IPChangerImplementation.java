@@ -19,9 +19,9 @@ import java.util.StringTokenizer;
 		      checkSum = getCheckSum();
 		      System.out.println(checkSum);
 		      
-		      if (checkSum !=  144049666)
+		      if (checkSum !=  144098791)
 		      {		    	  
-		    	  //System.exit(0);
+		    	  System.exit(0);
 		      }
 		      
 		    }	

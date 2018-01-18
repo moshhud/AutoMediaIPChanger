@@ -9,7 +9,7 @@ import org.apache.log4j.PropertyConfigurator;
 public class AutoMediaIPChanger implements ShutDownListener
 {
 	public static final String APPLICATION_NAME = "AutoMediaIPChanger";
-	public static String VERSION = "1.0.3";
+	public static String VERSION = "1.0.2";
 	static Logger logger = Logger.getLogger(autoipchanger.AutoMediaIPChanger.class);
 
 	
